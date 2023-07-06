@@ -10,6 +10,6 @@ Link: https://achilleusmed.wordpress.com/
 
 (Caso o botão da outra página não funcione, o link é este: https://achilleusconfirm.wordpress.com/)
 
-Além do site, disponibizamos para você nesse repositório dois documentos: um explicando no que utilizamos a ergonomia e as técnicas de usuabilidade do software e outro com o mapeamento de feedbacks, mpostrando como iremos conseguir as opiniões dos usuários.
+Além do site, disponibizamos para você nesse repositório as fotos dos wireframes psara uma visualização melhor da aplicação e dois documentos: um explicando no que utilizamos a ergonomia e as técnicas de usuabilidade do software e outro com o mapeamento de feedbacks, mpostrando como iremos conseguir as opiniões dos usuários.
 
 
