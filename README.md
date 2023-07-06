@@ -1,7 +1,8 @@
 # Wireframe-Trabalho
 
 Este trabalho pertence ao Joseph Patrick e ao Samuel Silva.
-(Para uma melhor apresentação, utilizamos o nome de uma empresa real.)
+(Para uma melhor apresentação, utilizamos o nome de uma empresa real, e os wireframes estão com números no canto direito inferior para saber a ordem de visualização)
+
 
 Apresentamos para você o Achilléus Center, um software de controle e cadastro destinados à clínicas médicas feito pela Achilléus Medical Center. Para a divulgação e captação dos clientes, foi montado um website para divulgar o software e apresentar aos clientes um pouco do que eles irão adquirir ao comprar o software.
 
